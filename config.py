@@ -1,0 +1,11 @@
+(WIDTH, HEIGHT) = (1920, 500)
+FPS = 10
+uFPS = -1
+PADDING = 10
+
+
+BLACK = (0,0,0)
+POINTER_C = (255,0,0)
+ARRAY_C = (255,0,255)
+
+MODE = 'color'
