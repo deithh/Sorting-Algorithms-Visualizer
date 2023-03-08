@@ -1,5 +1,7 @@
 # Visual-sort
 
+install requirements.txt
+
 In config set array length and window properties
 
 controls:
