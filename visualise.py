@@ -36,7 +36,7 @@ def listen2events(V, window):
                 V.sort()
                 V.sortInsertion(window)
             if event.key == K_i:
-                V.initArray(800, PADDING, HEIGHT - PADDING)#random.randint(PADDING, HEIGHT - 2 * PADDING))
+                V.initArray(ARRAY_SIZE, PADDING, HEIGHT - PADDING)#random.randint(PADDING, HEIGHT - 2 * PADDING))
             if event.key == K_m:
                 V.sort()
                 V.sortMerge(window)
