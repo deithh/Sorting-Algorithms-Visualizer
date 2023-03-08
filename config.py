@@ -7,6 +7,6 @@ PADDING = 10
 BLACK = (0,0,0)
 POINTER_C = (255,0,0)
 ARRAY_C = (255,0,255)
-ARRAY_SIZE = 400
+ARRAY_SIZE = 400 #max window width
 
-MODE = 'color'
+MODE = 'color' #do not change
