@@ -12,7 +12,7 @@ s - insertion sort
 m - mergesort  
 esc - stop  
 
-## Appearence
+## Appearance
 ![quicksort](https://i.imgur.com/xBvlS4f.png)
 ![mergesort](https://i.imgur.com/h0HR6Cn.png)
 ![random](https://i.imgur.com/da4LmI0.png)
